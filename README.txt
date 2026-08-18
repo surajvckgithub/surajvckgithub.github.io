@@ -1,1 +1,13 @@
-Upload index.html, hero-data-center-ai.mp4, suraj.png, and cv.pdf to the root of your GitHub Pages repository.
+Suraj Surendran - Final Portfolio
+
+Files:
+- index.html
+- hero-video.mp4
+- suraj.png
+- cv.pdf
+
+GitHub Pages:
+Upload all four files to the root of the repository:
+surajvckgithub.github.io
+
+Keep index.html in the repository root.
